@@ -9,6 +9,7 @@
 - **Poder:** agilitat, força i sentit arácnid
 - **Origen:** Peter Parker és picat per una aranya modificada
 - **Funció a la saga:** el jove de l'equip, protegeix Nova York
+- **Relació:** Iron Man és el seu mentor i li va crear el vestit
 
 ## Captain America
 - **Habilitat:** supersoldat amb un escut irrompible

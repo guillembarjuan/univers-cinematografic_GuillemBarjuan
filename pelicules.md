@@ -20,3 +20,10 @@
 - **Escenari:** la Terra i l'espai
 - **Argument:** els herois s'uneixen per primer cop per frenar Thanos.
 - **Capítols relacionats:** Capítols 3 i 4
+
+## 4. El futur
+- **Protagonistes:** Spider-Man, Black Panther
+- **Antagonista:** restes de l'organització de Thanos
+- **Escenari:** Wakanda i Nova York
+- **Argument:** després de la batalla final, una nova generació d'herois ha de protegir la Terra.
+- **Capítol relacionat:** Capítol 5
